@@ -1,0 +1,15 @@
+C:\Users\Чуваааааак\Desktop\даша\Домашка С#\tasc15\obj\Debug\net6.0\tasc15.csproj.AssemblyReference.cache
+C:\Users\Чуваааааак\Desktop\даша\Домашка С#\tasc15\obj\Debug\net6.0\tasc15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Чуваааааак\Desktop\даша\Домашка С#\tasc15\obj\Debug\net6.0\tasc15.AssemblyInfoInputs.cache
+C:\Users\Чуваааааак\Desktop\даша\Домашка С#\tasc15\obj\Debug\net6.0\tasc15.AssemblyInfo.cs
+C:\Users\Чуваааааак\Desktop\даша\Домашка С#\tasc15\obj\Debug\net6.0\tasc15.csproj.CoreCompileInputs.cache
+C:\Users\Чуваааааак\Desktop\даша\Домашка С#\tasc15\bin\Debug\net6.0\tasc15.exe
+C:\Users\Чуваааааак\Desktop\даша\Домашка С#\tasc15\bin\Debug\net6.0\tasc15.deps.json
+C:\Users\Чуваааааак\Desktop\даша\Домашка С#\tasc15\bin\Debug\net6.0\tasc15.runtimeconfig.json
+C:\Users\Чуваааааак\Desktop\даша\Домашка С#\tasc15\bin\Debug\net6.0\tasc15.dll
+C:\Users\Чуваааааак\Desktop\даша\Домашка С#\tasc15\bin\Debug\net6.0\tasc15.pdb
+C:\Users\Чуваааааак\Desktop\даша\Домашка С#\tasc15\obj\Debug\net6.0\tasc15.dll
+C:\Users\Чуваааааак\Desktop\даша\Домашка С#\tasc15\obj\Debug\net6.0\refint\tasc15.dll
+C:\Users\Чуваааааак\Desktop\даша\Домашка С#\tasc15\obj\Debug\net6.0\tasc15.pdb
+C:\Users\Чуваааааак\Desktop\даша\Домашка С#\tasc15\obj\Debug\net6.0\tasc15.genruntimeconfig.cache
+C:\Users\Чуваааааак\Desktop\даша\Домашка С#\tasc15\obj\Debug\net6.0\ref\tasc15.dll
